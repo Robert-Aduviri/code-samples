@@ -2,7 +2,7 @@
 
 These are some code samples from various projects and competitions. 
 
-#### Contents
+#### Content
 
 - Deep Learning
   - Neural Machine Translation
