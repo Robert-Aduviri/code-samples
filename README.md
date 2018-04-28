@@ -10,7 +10,7 @@ These are some code samples from various projects and competitions.
   - Semantic Text Matching
   - Genomics time-series with Convolutional Neural Networks
   - Text Classification with Recurrent Neural Networks
-  - Fully-connected Autoencoder
+  - Fully-connected Autoencoder for MNIST
 
 - Data Science Competitions
   - BBVA Challenge
