@@ -13,7 +13,7 @@ These are some code samples from various projects and competitions.
   - Fully-connected Autoencoder
 
 - Data Science Competitions
-  - BBVA Chellenge
+  - BBVA Challenge
   - DrivenData Competition
   - Interbank Datathon
   - Kaggle Bulldozers Competition
