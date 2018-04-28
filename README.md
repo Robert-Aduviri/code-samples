@@ -1,4 +1,4 @@
-# Code samples for ML models
+# Code samples
 
 These are some code samples from various projects and competitions.
 
