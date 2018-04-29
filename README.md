@@ -2,9 +2,9 @@
 
 These are some code samples from various projects and competitions. 
 
-#### Content
+## Content
 
-- Deep Learning
+### Deep Learning
   - Neural Machine Translation
   - Pokédex Convolutional Neural Network
   - Semantic Text Matching
@@ -12,14 +12,14 @@ These are some code samples from various projects and competitions.
   - Text Classification with Recurrent Neural Networks
   - Fully-connected Autoencoder for MNIST
 
-- Data Science Competitions
+### Data Science Competitions
   - BBVA Challenge
   - DrivenData Competition
   - Interbank Datathon
   - Kaggle Bulldozers Competition
   - Kaggle Homesite Insurance Competition
 
-- Optimization
+### Optimization
   - Audio automatic matching with descriptors
   - Nearest-neighbor Collaborative Filtering
   - Geospatial Visualization
