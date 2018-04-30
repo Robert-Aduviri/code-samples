@@ -29,6 +29,8 @@ Commodity description classification using recurrent neural networks (bidirectio
 ### [Genomics time-series pattern-recognition with Convolutional Neural Networks]()
 Convolutional neural networks architecture experimentation for genomic sequence pair binary classification with high imbalance (0.07% positive classes). ~78.5 F1-Score for ~200k pairs of sequences.
   
+<p align="center"><img src="https://raw.githubusercontent.com/Robert-Alonso/code-samples/master/Deep%20Learning/Genomics/classifier-sample.png" width="50%"></p>
+  
 ### [Fully-connected Autoencoder for MNIST]()
 
 ## Data Science Competitions
