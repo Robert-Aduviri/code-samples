@@ -29,7 +29,7 @@ Commodity description classification using recurrent neural networks (bidirectio
 ### [Genomics time-series pattern-recognition with Convolutional Neural Networks](https://github.com/Robert-Alonso/code-samples/tree/master/Deep%20Learning/Genomics)
 Convolutional neural networks architecture experimentation for genomic sequence pair binary classification with high imbalance (0.07% positive classes). ~78.5 F1-Score for ~200k pairs of sequences.
   
-<p align="center"><img src="https://raw.githubusercontent.com/Robert-Alonso/code-samples/master/Deep%20Learning/Genomics/classifier-sample.png" width="50%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Robert-Alonso/code-samples/master/Deep%20Learning/Genomics/classifier-sample.png" width="40%"></p>
   
 ### [Fully-connected Autoencoder for MNIST](https://github.com/Robert-Alonso/code-samples/tree/master/Deep%20Learning/MNIST%20Autoencoder)
 Fully-connected autoencoder for MNIST dataset with a bottleneck of size 20 based on DeepBayes 2018 [practical assignment](https://bayesgroup.github.io/deepbayes-school/2018/task/description/) implemented in PyTorch. 0.00069 L2 reconstruction loss + L1 regularization loss. t-SNE dimensionality reduction for bottleneck features visualization.
