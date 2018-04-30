@@ -19,6 +19,10 @@ Pokémon image classification with transfer learning from ImageNet-pretrained Mo
 ### [Job2Vec: Job matching from word-embeddings](https://github.com/Robert-Alonso/code-samples/tree/master/Deep%20Learning/Semantic%20Text%20Matching)
 Information retrieval system between job descriptions and applicant profiles textual description matching based on Word2Vec semantic search and string matching algorithms for out-of-vocabulary misspelled words, constructed over an inverted index for efficient look-up. Presented at [WAIMLAp 2017](http://grpiaa.inf.pucp.edu.pe/waimlap2017/?page_id=211) and [Hack Faire 2017](https://www.facebook.com/HackSpacePeru/posts/1785114531498727). [[poster](https://github.com/Robert-Alonso/code-samples/blob/master/Deep%20Learning/Semantic%20Text%20Matching/Job%20Matching%20Poster.pdf)]
 
+<p align="center"><img src="https://raw.githubusercontent.com/Robert-Alonso/code-samples/master/Deep%20Learning/Semantic%20Text%20Matching/word-embedding-space.png"></p>
+
+
+
 
 
 
