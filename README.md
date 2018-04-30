@@ -1,6 +1,6 @@
 # Code samples
 
-These are some code samples from various projects and competitions. 
+These are some code samples from various research/side projects and competitions. 
 
 ## Content
 
