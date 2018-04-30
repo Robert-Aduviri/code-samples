@@ -7,7 +7,7 @@ These are some code samples from various research/side projects and competitions
 ## Deep Learning
 
 ### [Neural Machine Translation](https://github.com/Robert-Alonso/code-samples/tree/master/Deep%20Learning/NMT)
-Sequence-to-sequence recurrent neural network (bidirectional LSTM) with Global Attention ([Luong, 2015](https://arxiv.org/abs/1508.04025)) and Beam Search implemented in PyTorch. ~40 BLEU in 110K-sentences English-Spanish [corpus](http://www.manythings.org/anki/).
+Sequence-to-sequence recurrent neural network (bidirectional LSTM) with Global Attention ([Luong, 2015](https://arxiv.org/abs/1508.04025)) and Beam Search implemented in PyTorch. ~41 BLEU in 110K-sentences English-Spanish [corpus](http://www.manythings.org/anki/).
 
 <p align="center"><img src="https://raw.githubusercontent.com/Robert-Alonso/code-samples/master/Deep%20Learning/NMT/attention-visualization-sample.png" width="50%"></p>
   
