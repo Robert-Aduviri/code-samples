@@ -34,7 +34,7 @@ Information retrieval system between job descriptions and applicant profiles tex
   - Kaggle Bulldozers Competition
   - Kaggle Homesite Insurance Competition
 
-## Optimization
+## Miscellaneous
   - Audio automatic matching with descriptors
   - Nearest-neighbor Collaborative Filtering
   - Geospatial Visualization
