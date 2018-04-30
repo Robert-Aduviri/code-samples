@@ -34,7 +34,7 @@ Convolutional neural networks architecture experimentation for genomic sequence 
 ### [Fully-connected Autoencoder for MNIST](https://github.com/Robert-Alonso/code-samples/tree/master/Deep%20Learning/MNIST%20Autoencoder)
 Fully-connected autoencoder for MNIST dataset with a bottleneck of size 20 based on DeepBayes 2018 [practical assignment](https://bayesgroup.github.io/deepbayes-school/2018/task/description/) implemented in PyTorch. 0.00069 L2 reconstruction loss + L1 regularization loss. t-SNE dimensionality reduction for bottleneck features visualization.
 
-<p align="center"><img src="https://raw.githubusercontent.com/Robert-Alonso/code-samples/master/Deep%20Learning/MNIST%20Autoencoder/autoencoder-visualization.png" width="50%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Robert-Alonso/code-samples/master/Deep%20Learning/MNIST%20Autoencoder/autoencoder-visualization.png" width="70%"></p>
 
 ## Data Science Competitions
   - BBVA Challenge
