@@ -17,19 +17,15 @@ Pokémon image classification with transfer learning from ImageNet-pretrained Mo
 <p align="center"><img src="https://raw.githubusercontent.com/Robert-Alonso/code-samples/master/Deep%20Learning/Pok%C3%A9dex%20CNN/image-classifier-sample.png" width="50%"></p>
 
 ### [Job2Vec: Job matching from word-embeddings](https://github.com/Robert-Alonso/code-samples/tree/master/Deep%20Learning/Semantic%20Text%20Matching)
-Information retrieval system between job descriptions and applicant profiles textual description matching based on Word2Vec semantic search and string matching algorithms for out-of-vocabulary misspelled words, constructed over an inverted index for efficient look-up. Presented at [WAIMLAp 2017](http://grpiaa.inf.pucp.edu.pe/waimlap2017/?page_id=211) and [Hack Faire 2017](https://www.facebook.com/HackSpacePeru/posts/1785114531498727). [[poster](https://github.com/Robert-Alonso/code-samples/blob/master/Deep%20Learning/Semantic%20Text%20Matching/Job%20Matching%20Poster.pdf)]
+Information retrieval system between job descriptions and applicant profiles textual description matching based on Word2Vec and Doc2Vec ([Le, 2014])(https://arxiv.org/abs/1405.4053) semantic search and string matching algorithms for out-of-vocabulary misspelled words, constructed over an inverted index for efficient look-up. Presented at [WAIMLAp 2017](http://grpiaa.inf.pucp.edu.pe/waimlap2017/?page_id=211) and [Hack Faire 2017](https://www.facebook.com/HackSpacePeru/posts/1785114531498727). [[poster](https://github.com/Robert-Alonso/code-samples/blob/master/Deep%20Learning/Semantic%20Text%20Matching/Job%20Matching%20Poster.pdf)]
 
 <p align="center"><img src="https://raw.githubusercontent.com/Robert-Alonso/code-samples/master/Deep%20Learning/Semantic%20Text%20Matching/word-embedding-space.png"></p>
 
+### [Text Classification with Recurrent Neural Networks]()
 
-
-
-
-
-
-  - Genomics time-series with Convolutional Neural Networks
-  - Text Classification with Recurrent Neural Networks
-  - Fully-connected Autoencoder for MNIST
+### [Genomics time-series with Convolutional Neural Networks]()
+  
+### [Fully-connected Autoencoder for MNIST]()
 
 ## Data Science Competitions
   - BBVA Challenge
