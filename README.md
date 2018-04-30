@@ -21,7 +21,10 @@ Information retrieval system between job descriptions and applicant profiles tex
 
 <p align="center"><img src="https://raw.githubusercontent.com/Robert-Alonso/code-samples/master/Deep%20Learning/Semantic%20Text%20Matching/word-embedding-space.png"></p>
 
-### [Text Classification with Recurrent Neural Networks]()
+### [Text Classification with Recurrent Neural Networks](https://github.com/Robert-Alonso/code-samples/tree/master/Deep%20Learning/Text%20Classification)
+Large-scale text classification using recurrent neural networks (bidirectional LSTM) implemented in PyTorch with FastText pretrained word embeddings ([Joulin, 2016](https://arxiv.org/abs/1607.01759)). ~92% top-5 accuracy with 3762 classes and 30.6M text descriptions.
+
+
 
 ### [Genomics time-series with Convolutional Neural Networks]()
   
