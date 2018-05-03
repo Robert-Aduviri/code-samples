@@ -2,8 +2,6 @@
 
 These are some code samples from various research/side projects and competitions. 
 
-## Content
-
 ## Deep Learning
 
 ### [Neural Machine Translation](https://github.com/Robert-Alonso/code-samples/tree/master/Deep%20Learning/NMT)
