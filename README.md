@@ -35,14 +35,22 @@ Fully-connected autoencoder for MNIST dataset with a bottleneck of size 20 imple
 <p align="center"><img src="https://raw.githubusercontent.com/Robert-Alonso/code-samples/master/Deep%20Learning/MNIST%20Autoencoder/autoencoder-visualization.png" width="70%"></p>
 
 ## Data Science Competitions
-  - BBVA Challenge
-  - DrivenData Competition
-  - Interbank Datathon
-  - Kaggle Bulldozers Competition
-  - Kaggle Homesite Insurance Competition
+  - [BBVA Challenge](https://github.com/Robert-Alonso/code-samples/tree/master/Data%20Science%20Competitions/BBVA%20Challenge)
+  - [DrivenData Competition](https://github.com/Robert-Alonso/code-samples/blob/master/Data%20Science%20Competitions/DrivenData%20Competition.ipynb)
+  - [Interbank Datathon](https://github.com/Robert-Alonso/code-samples/blob/master/Data%20Science%20Competitions/Interbank%20Datathon.ipynb)
+  - [Kaggle Bulldozers Competition](https://github.com/Robert-Alonso/code-samples/blob/master/Data%20Science%20Competitions/Kaggle%20Bulldozers.ipynb)
+  - [Kaggle Homesite Insurance Competition](https://github.com/Robert-Alonso/code-samples/blob/master/Data%20Science%20Competitions/Kaggle%20Homesite%20Insurance.ipynb)
+  - [Kaggle NYC Taxi Trip Duration Competition](https://github.com/Robert-Alonso/code-samples/blob/master/Data%20Science%20Competitions/Kaggle%20NYC%20Taxi%20Trip%20Duration.ipynb)
+
+## Coursework
+  - [CIFAR-10 with CNNs](https://github.com/Robert-Alonso/code-samples/tree/master/Deep%20Learning/Coursework/CIFAR-10%20CNN) (Tensorflow)
+  - [CelebA Image Generation with DCGANs](https://github.com/Robert-Alonso/code-samples/tree/master/Deep%20Learning/Coursework/DCGAN) (Tensorflow)
+  - [Dogs vs Cats with CNNs + Transfer Learning](https://github.com/Robert-Alonso/code-samples/tree/master/Deep%20Learning/Coursework/Keras%20CNN) (Keras)
+  - [Machine Translation with Seq2seq RNNs](https://github.com/Robert-Alonso/code-samples/tree/master/Deep%20Learning/Coursework/LSTM%20Machine%20Translation) (Tensorflow)
+  - [Text Generation with LSTM RNNs](https://github.com/Robert-Alonso/code-samples/tree/master/Deep%20Learning/Coursework/LSTM%20Text%20Generation) (Tensorflow)
 
 ## Miscellaneous
-  - Audio automatic matching with descriptors
-  - Nearest-neighbor Collaborative Filtering
-  - Geospatial Visualization
+  - [Music automatic matching with audio descriptors](https://github.com/Robert-Alonso/code-samples/tree/master/Miscellaneous/Audio%20matching)
+  - [Nearest Neighbor Collaborative Filtering](https://github.com/Robert-Alonso/code-samples/blob/master/Miscellaneous/Nearest-neighbor%20Collaborative%20Filtering.ipynb)
+  - [Geospatial Visualization](https://github.com/Robert-Alonso/code-samples/blob/master/Miscellaneous/Geospatial%20Visualization.ipynb)
 
