@@ -48,6 +48,7 @@ Fully-connected autoencoder for MNIST dataset with a bottleneck of size 20 imple
   - [Dogs vs Cats with CNNs + Transfer Learning](https://github.com/Robert-Alonso/code-samples/tree/master/Deep%20Learning/Coursework/Keras%20CNN) (Keras)
   - [Machine Translation with Seq2seq RNNs](https://github.com/Robert-Alonso/code-samples/tree/master/Deep%20Learning/Coursework/LSTM%20Machine%20Translation) (Tensorflow)
   - [Text Generation with LSTM RNNs](https://github.com/Robert-Alonso/code-samples/tree/master/Deep%20Learning/Coursework/LSTM%20Text%20Generation) (Tensorflow)
+  - [Speech Recognition with GRU RNNs and CNNs](https://github.com/Robert-Alonso/code-samples/tree/master/Deep%20Learning/Coursework/CNN%20GRU%20Speech%20Recognition) (Keras)
 
 ## Miscellaneous
   - [Music automatic matching with audio descriptors](https://github.com/Robert-Alonso/code-samples/tree/master/Miscellaneous/Audio%20matching)
