@@ -35,7 +35,10 @@ Fully-connected autoencoder for MNIST dataset with a bottleneck of size 20 imple
 <p align="center"><img src="https://raw.githubusercontent.com/Robert-Alonso/code-samples/master/Deep%20Learning/MNIST%20Autoencoder/autoencoder-visualization.png" width="70%"></p>
 
 ## Data Science Competitions
-  - [BBVA Challenge](https://github.com/Robert-Alonso/code-samples/tree/master/Data%20Science%20Competitions/BBVA%20Challenge)
+  - [Data Science Game Finals 2018](https://github.com/Robert-Alonso/DSG-2018-Finals/blob/master/src/utils_r.py)
+  - [Data Science Game Qualifiers 2018](https://github.com/Robert-Alonso/DSG-2018-Qualifiers/blob/master/src/multimodal.py)
+  - [Movistar Data Talent 2018](https://github.com/Robert-Alonso/Movistar-Datathon/blob/master/src/utils_r.py)
+  - [BBVA Challenge 2017](https://github.com/Robert-Alonso/code-samples/tree/master/Data%20Science%20Competitions/BBVA%20Challenge)
   - [DrivenData Competition](https://github.com/Robert-Alonso/code-samples/blob/master/Data%20Science%20Competitions/DrivenData%20Competition.ipynb)
   - [Interbank Datathon](https://github.com/Robert-Alonso/code-samples/blob/master/Data%20Science%20Competitions/Interbank%20Datathon.ipynb)
   - [Kaggle Bulldozers Competition](https://github.com/Robert-Alonso/code-samples/blob/master/Data%20Science%20Competitions/Kaggle%20Bulldozers.ipynb)
