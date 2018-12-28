@@ -4,6 +4,9 @@ These are some code samples from various research projects, side projects and co
 
 ## Deep Learning
 
+### [Variational Sparse Coding](https://github.com/Alfo5123/Variational-Sparse-Coding/blob/master/src/models/vsc.py)
+Implementation of the "Variational Sparse Coding" paper.
+
 ### [Neural Machine Translation](https://github.com/Robert-Alonso/code-samples/tree/master/Deep%20Learning/NMT)
 Sequence-to-sequence recurrent neural network (bidirectional LSTM) with Global Attention ([Luong et al., 2015](https://arxiv.org/abs/1508.04025)) and Beam Search implemented in PyTorch. ~41 BLEU in 110K-sentences English-Spanish [corpus](http://www.manythings.org/anki/).
 
@@ -35,9 +38,19 @@ Fully-connected autoencoder for MNIST dataset with a bottleneck of size 20 imple
 <p align="center"><img src="https://raw.githubusercontent.com/Robert-Alonso/code-samples/master/Deep%20Learning/MNIST%20Autoencoder/autoencoder-visualization.png" width="70%"></p>
 
 ## Data Science Competitions
-  - [Data Science Game Finals 2018](https://github.com/Robert-Alonso/DSG-2018-Finals/blob/master/src/utils_r.py)
-  - [Data Science Game Qualifiers 2018](https://github.com/Robert-Alonso/DSG-2018-Qualifiers/blob/master/src/multimodal.py)
-  - [Movistar Data Talent 2018](https://github.com/Robert-Alonso/Movistar-Datathon/blob/master/src/utils_r.py)
+
+### [Movistar Data Talent 2018](https://github.com/Robert-Alonso/Movistar-Datathon/blob/master/src/utils_r.py)
+Main preprocessing and main cross validation loop with LightGBM
+
+### [Data Science Game Finals 2018](https://github.com/Robert-Alonso/DSG-2018-Finals/blob/master/src/utils_r.py)
+LSTM conditioned on a structured embedding network implemented in PyTorch (refactored version)
+
+### [Data Science Game Qualifiers 2018](https://github.com/Robert-Alonso/DSG-2018-Qualifiers/blob/master/src/multimodal.py)
+LSTM conditioned on a structured embedding network implemented in PyTorch
+
+
+  
+### Other competitions
   - [BBVA Challenge 2017](https://github.com/Robert-Alonso/code-samples/tree/master/Data%20Science%20Competitions/BBVA%20Challenge)
   - [DrivenData Competition](https://github.com/Robert-Alonso/code-samples/blob/master/Data%20Science%20Competitions/DrivenData%20Competition.ipynb)
   - [Interbank Datathon](https://github.com/Robert-Alonso/code-samples/blob/master/Data%20Science%20Competitions/Interbank%20Datathon.ipynb)
