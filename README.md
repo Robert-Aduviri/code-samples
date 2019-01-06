@@ -7,6 +7,10 @@ These are some code samples from various research projects, side projects and co
 ### [Variational Sparse Coding](https://github.com/Alfo5123/Variational-Sparse-Coding/)
 Implementation of the "Variational Sparse Coding" [paper](https://openreview.net/pdf?id=SkeJ6iR9Km) as part of the ICLR 2019 Reproducibility Challenge. [[code](https://github.com/Alfo5123/Variational-Sparse-Coding/tree/master/src)]
 
+<p align="center">
+ <img src="https://github.com/Alfo5123/Variational-Sparse-Coding/blob/master/results/images/latent8alpha001.gif" width="50%">
+</p>
+
 ### [Neural Machine Translation](https://github.com/Robert-Alonso/code-samples/tree/master/Deep%20Learning/NMT)
 Sequence-to-sequence recurrent neural network (bidirectional LSTM) with Global Attention ([Luong et al., 2015](https://arxiv.org/abs/1508.04025)) and Beam Search implemented in PyTorch. ~41 BLEU in 110K-sentences English-Spanish [corpus](http://www.manythings.org/anki/).
 
